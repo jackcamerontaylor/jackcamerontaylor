@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-Hi, I'm Jack Taylor, a final-year Computer Science and Mathematics student at The University of Edinburgh. I have a strong passion for Data Science and Artificial Intelligence, with a particular interest in applying these skills to the environmental sector. I am eager to leverage my expertise to contribute to innovative solutions for environmental challenges.
+Hi, I'm Jack Taylor, a final-year Computer Science and Mathematics student at The University of Edinburgh. I have a strong passion for Data Science and Artificial Intelligence, with a particular interest in applying these skills to the environmental sector. I am eager to leverage my expertise to contribute to innovative solutions for environmental challenges!
 
 ## 🌐 Social & Contact
 
