@@ -39,10 +39,3 @@ Hi, I'm Jack Taylor, a final-year Computer Science and Mathematics student at Th
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> </a>
   &nbsp; &nbsp;
 </div>
-
-## 📚 Repositories
-
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=jackcamerontaylor&repo=ASA-DataFest)](https://github.com/jackcamerontaylor/ASA-DataFest)
-&nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=jackcamerontaylor&repo=PizzaDronz)](https://github.com/jackcamerontaylor/PizzaDronz)
-&nbsp; &nbsp;
