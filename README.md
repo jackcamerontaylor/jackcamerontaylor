@@ -9,7 +9,7 @@ Hi, I'm Jack Taylor, a final-year Computer Science and Mathematics student at Th
 <div align="left">
   <a href="mailto:jackcamerontaylor@gmail.com" target="_blank" rel="noreferrer"> <img alt="Jack Taylors's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://linkedin.com/in/https://linkedin.com/in/jack-taylor-b765181b4" target="_blank" rel="noreferrer"> <img alt="Jack Taylor's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/jackcamerontaylor" target="_blank" rel="noreferrer"> <img alt="Jack Taylor's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
 </div>
 
